@@ -6,8 +6,8 @@ Returns error stack of an object if it exists.
 
 import maybestack from 'maybestack'
 
-var a = {a: 'ok'}
-var b = new Error('stuff')
+const a = {a: 'ok'}
+const b = new Error('stuff')
 
 maybestack(a) // {a: 'ok'}
 maybestack(b) /*
