@@ -1,6 +1,6 @@
 {
   "name": "maybestack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "maybeStack(err) - return stack of error or just return the error object",
   "main": "index.js",
   "scripts": {
