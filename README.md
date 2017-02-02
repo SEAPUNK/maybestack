@@ -1,5 +1,7 @@
 # maybestack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/maybestack.svg)](https://greenkeeper.io/)
+
 Returns error stack of an object if it exists.
 
 ```javascript
